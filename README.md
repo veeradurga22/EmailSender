@@ -23,6 +23,5 @@ Here We are going to learn how i was sent email in this code..
 
 
 #Note:
- While giving the login credentials in the code .. we are using the third party app ( Using python code ), Email won't allow then .. to all the mail to send using this we
- have to ON the 'Less Security Apps' in the Manage My accoount in Mail.
+ While giving the login credentials in the code .. we are using the third party app ( Using python code ), Email won't allow them .. For that we need to 'ON' the 'Less Security Apps' in the Manage My account in gmail.
   
