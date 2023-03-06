@@ -15,7 +15,7 @@ Here We are going to learn how i was sent email in this code..
   3) Pass these inputs to the Email File. 
   4) In this Email file first we need to import the SMTP module.
   5) After that create a session, we will be using its instance SMTP to encapsulate an SMTP connection. 
-  6) For security reasons, now put the SMTP connection in TLS mode. TLS (Transport Layer Security) encrypts all the SMTP commands.
+  6) For security reasons, we put the SMTP connection in TLS mode. TLS (Transport Layer Security) encrypts all the SMTP commands.
      After that, for security and authentication, you need to pass your Gmail account credentials in the login instance. 
      The compiler will show an authentication error if you enter an invalid email id or password.
   7) After that store the Subject we want to send , body and file in the variables 
