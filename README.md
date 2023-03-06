@@ -22,6 +22,6 @@ Here We are going to learn how i was sent email in this code..
   8) then after click on the Send email. The mail will send to the 'toaddr' person. 
 
 
-#Note:
+# Note:
  While giving the login credentials in the code .. we are using the third party app ( Using python code ), Email won't allow them .. For that we need to 'ON' the 'Less Security Apps' in the Manage My account in gmail.
   
